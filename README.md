@@ -7,6 +7,14 @@ Aujourd'hui le système du crédit social en Chine est un projet du gouvernement
 
 Les entreprises et les citoyens sont ainsi poussés à respecter leurs obligations légales.
 
+### 1) Les concepts du crédit social et de l'intelligence artificielle
+### 2) Mises en place de l'IA en Chine
+#### Récupération des données
+#### Reconnaissance faciale
+#### Reconnaissance vocale
+### 3) Mesures pour contrer les outils d'IA
+
+
 
 You can use the [editor on GitHub](https://github.com/AugustinTT/veille/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
