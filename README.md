@@ -35,7 +35,9 @@ Les champs d'applications de l'intelligence artificielle sont nombreux dans le m
 ### 2) Mises en place de l'IA en Chine
 #### Récupération des données
 #### Reconnaissance vocale et traitement du langage naturel
-Avant que le Deep Learning ne s'invite dans le domaine de la reconnaissance vocale, les systèmes de reconnaissance de la parole utilisaient principalement le modèle gaussien hybride GMM : Celui-ci permet de faire une modélisation probabiliste et efficace de l'espace acoustique d'un locuteur, il est facile à mettre en place et peut traiter un grand nombre de données. Cependant il présente un défaut majeur : Ce modèle dégrade les informations nécessaires à la génération de la parole, ce qui rend la conversion de la voix dégradée. 
+Avant que le Deep Learning ne s'invite dans le domaine de la reconnaissance vocale, les systèmes de reconnaissance de la parole utilisaient principalement le modèle gaussien hybride GMM : Celui-ci permet de faire une modélisation probabiliste et efficace de l'espace acoustique d'un locuteur, il est facile à mettre en place et peut traiter un grand nombre de données. Cependant il présente un défaut majeur : Ce modèle dégrade les informations nécessaires à la génération de la parole, ce qui rend la conversion de la voix dégradée.
+
+Aujoud'hui la Chine utilise les outils de reconnaissance de la parôle d'une de ses HighTech : Beijing iFlytek. Son système de reconnaissance de la parôle repose sur une architecture de réseaux de neuronnes pouvant aller jusqu'à neuf couches.
 #### Reconnaissance faciale
 ### 3) Mesures pour contrer les outils d'IA
 ### 4) Sources
