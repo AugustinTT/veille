@@ -34,12 +34,16 @@ Les champs d'applications de l'intelligence artificielle sont nombreux dans le m
 
 ### 2) Mises en place de l'IA en Chine
 #### Récupération des données
+#### Reconnaissance vocale et traitement du langage naturel
+Avant que le Deep Learning ne s'invite dans le domaine de la reconnaissance vocale, les systèmes de reconnaissance de la parole utilisaient principalement le modèle gaussien hybride GMM : Celui-ci permet de faire une modélisation probabiliste et efficace de l'espace acoustique d'un locuteur, il est facile à mettre en place et peut traiter un grand nombre de données. Cependant il présente un défaut majeur : Ce modèle dégrade les informations nécessaires à la génération de la parole, ce qui rend la conversion de la voix dégradée. 
 #### Reconnaissance faciale
-#### Reconnaissance vocale
 ### 3) Mesures pour contrer les outils d'IA
 ### 4) Sources
 https://azure.microsoft.com/fr-fr/overview/artificial-intelligence-ai-vs-machine-learning/
 
+https://hal.inria.fr/tel-01563766/document
+Othman Lachhab. Reconnaissance Statistique de la Parole Continue pour Voix Laryngée et Alaryngée.
+Informatique et langage [cs.CL]. Université Mohammed V de Rabat (Maroc), 2017. Français. fftel01563766f
 
 
 You can use the [editor on GitHub](https://github.com/AugustinTT/veille/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
