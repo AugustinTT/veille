@@ -3,7 +3,7 @@
 ### Introduction
 La Chine est un pays en développement qui utilie de plus en plus l'intelligence artificielle pour relever des nombreux défis. Ses investissements dans ce secteur sont importants, et ils pourraient faire de la Chine le leader de l'intelligence artificielle bientôt. Son principal concurrent actuel sont les Etats-Unis.
 
-Un domaine d'application de l'intelligence artificielle où la Chine a beaucoup investi est la surveillance de sa population via la mise en place d'un système d e crédit social.
+Un domaine d'application de l'intelligence artificielle où la Chine a beaucoup investi est la surveillance de sa population via la mise en place d'un système de crédit social.
 
 ### 1) Les concepts du crédit social et de l'intelligence artificielle
 #### Le crédit social
