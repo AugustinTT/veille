@@ -37,8 +37,18 @@ Les champs d'applications de l'intelligence artificielle sont nombreux dans le m
 #### Reconnaissance vocale et traitement du langage naturel
 Avant que le Deep Learning ne s'invite dans le domaine de la reconnaissance vocale, les systèmes de reconnaissance de la parole utilisaient principalement le modèle gaussien hybride GMM : Celui-ci permet de faire une modélisation probabiliste et efficace de l'espace acoustique d'un locuteur, il est facile à mettre en place et peut traiter un grand nombre de données. Cependant il présente un défaut majeur : Ce modèle dégrade les informations nécessaires à la génération de la parole, ce qui rend la conversion de la voix dégradée.
 
-Aujoud'hui la Chine utilise les outils de reconnaissance de la parôle d'une de ses HighTech : Beijing iFlytek. Son système de reconnaissance de la parôle repose sur une architecture de réseaux de neuronnes pouvant aller jusqu'à neuf couches.
+Aujoud'hui la Chine utilise les outils de reconnaissance et de traitement de la parôle de ses HighTech : Beijing iFlytek et Baidu. Leurs systèmes de reconnaissance de la parôle reposent sur une architecture de réseaux de neuronnes pouvant aller jusqu'à neuf couches, ce qui leur permet de mieux résoudre les problèmes d'apprentissage de la parôle.
+
+Une fois l'apprentissage des réseaux de neurones terminé, les scientifiques peuvent récupérer les informations de corrélation entre les caractéristiques des échantillons de parôle. Le modèle de réseau de neurones profond est formé à partir de ces caractéristiques. Étant donné que le réseau de neurones profond utilise une architecture neuronale du cerveau humain simulée, les caractéristiques des données sont extraites couche par couche pour enfin obtenir les caractéristiques idéales adaptées au traitement de la classification des formes. La technologie de modélisation de réseau de neurones profonds peut être bien combinée avec la technologie de reconnaissance vocale traditionnelle lorsqu'elle est appliquée sur la ligne réelle, et le taux de reconnaissance du système de reconnaissance vocale est considérablement amélioré.
+
 #### Reconnaissance faciale
+Le modèle d'apprentissage utilisé pour le traitement d'image et la reconnaissance faciale est l'apprentissage en profondeur des réseaux de neuronnes : On utilise des réseaux de neurones convolutifs (CNN). En général le nombre de couches cachées est d'au moins cinq. 
+Cette conception architectural de CNN provient de modèles de vision animale des biologistes Hubei et Wiesel.
+
+Le meilleur sytème de reconnaissance faciale de Chine vient de l'université de Hong-Kong : DeepID. Ce projet est basé sur la méthode d'apprentissage par réseau de neurones convolutifs, et a un taux de précision de reconnaissance faciale de 97,45% (contre 97,35% pour DeepFace, système de reconnaissance faciale de Facebook et 97,5% pour celle d'un humain). DeepID a adopté une structure CNN de quatre couches cachées (en plus de celles d'entrée et de sortie), alors que DeepFace a une structure de cinq couches cachées.
+Le projet DeepID a ensuite évolué en DeepID2 par la suite, et a augmenté son taux de reconnaissance faciale à 99,15% : Celui-ci utilise une structure de profondeur similaire à DeepID.
+
+
 ### 3) Mesures pour contrer les outils d'IA
 ### 4) Sources
 https://azure.microsoft.com/fr-fr/overview/artificial-intelligence-ai-vs-machine-learning/
