@@ -51,7 +51,7 @@ Le projet DeepID a ensuite évolué en DeepID2 par la suite, et a augmenté son 
 
 ### 3) Mesures pour contrer les outils d'IA
 
-Plusieurs outils ont été développé par des ingénieurs du monde entier pour tenter de contrer des systèmes de surveillance basés sur l'intelligence artificielle. Certains ont même été élaborés grâce à une intelligence artificielle.
+Plusieurs outils ont été développés par des ingénieurs du monde entier pour tenter de contrer des systèmes de surveillance basés sur l'intelligence artificielle. Certains ont même été élaborés grâce à une intelligence artificielle.
 
 #### Le maquillage
 
