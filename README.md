@@ -79,6 +79,20 @@ https://www.thalesgroup.com/fr/europe/france/dis/gouvernement/biometrie/reconnai
 
 https://www.allianttechnology.com/facial-unrecognition-keep-cameras-off-face/
 
+https://ieeexplore.ieee.org/abstract/document/6722024
+
+https://www.rbth.com/science_and_tech/2017/07/22/hiding-from-artificial-intelligence-in-the-age-of-total-surveillance_808692
+
+https://fintechzoom.com/fintech_news_credit-cards/bad-credit-credit-cards-face-recognition-is-the-u-s-copying-chinas-surveillance-state/
+
+https://www.techiexpert.com/the-future-of-artificial-intelligence-depends/
+
+https://english.lokmat.com/national/ccp-has-digitised-its-dictatorship/
+
+https://www.youtube.com/watch?v=I29V_HYdNH4&ab_channel=Channel2600
+
+https://www.youtube.com/watch?v=mxTvricFIgE&ab_channel=OlgaRussakovsky
+
 
 You can use the [editor on GitHub](https://github.com/AugustinTT/veille/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
