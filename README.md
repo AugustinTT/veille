@@ -71,12 +71,11 @@ Grigory Bakunov a cependant décidé de ne pas diffuser son algorithme, ni mettr
 Dans le même thème, l'allemand Adam Harvey a également mis en place un dispositif de camouflage qui permet de protéger les gens de la reconnaissance faciale grâce à un maquillage et une coupe de cheveux spécials. Ce dispositif s'appelle CV Dazzle, et consiste à modifier le contraste et les relations spatiales des principales caractéristiques du visage.
 
 #### Impression de visage en infrarouge
-
-
+Des chercheurs allemands ont réussi à controurner le système de reconnaissance faciale de Windows 10 à l'aide d'une impression de visage infra-rouge : En effet ce système utilise l'imagerie infrarouge pour être efficace même dans des conditions d'éclairages médiocres. Il suffisait alors d'imprimer une image du propriétaire de l'ordinateur en infrarouge pour passer le système d'authentification. Le problème a depuis été réparé, mais il prouve l'existence de faiblesses dans les systèmes de reconnaissance faciale, qui peuvent être contournés par des méthodes originales et variées.
 
 #### Le masque
 
-Bien que la pandémie du covid19 ait insité beaucoup de gens à porter le masque dans la rue, et ait perturbé beaucoup de systèmes de reconnaissances faciale occidentaux à cause des visages à moitié masqués, les systèmes de reconnaissance faciale de la Chine ont gardé un taux de reconnaissance supérieur à 95% puisque leurs systèmes étaient déjà habitués au port du masque dans la rue par la population. 
+Bien que la pandémie du covid19 ait incité beaucoup de gens à porter le masque dans la rue, et ait perturbé beaucoup de systèmes de reconnaissances faciale occidentaux à cause des visages à moitié masqués, les systèmes de reconnaissance faciale de la Chine ont gardé un taux de reconnaissance supérieur à 95% puisque leurs systèmes étaient déjà habitués au port du masque dans la rue par la population. 
 
 ### 4) Sources
 [1] https://azure.microsoft.com/fr-fr/overview/artificial-intelligence-ai-vs-machine-learning/
