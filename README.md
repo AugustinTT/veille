@@ -50,12 +50,34 @@ Le projet DeepID a ensuite évolué en DeepID2 par la suite, et a augmenté son 
 
 
 ### 3) Mesures pour contrer les outils d'IA
+
+Plusieurs outils ont été développé par des ingénieurs du monde entier pour tenter de contrer des systèmes de surveillance basés sur l'intelligence artificielle. Certains ont même été élaborés grâce à une intelligence artificielle.
+
+#### Le maquillage
+
+Le russe Grigory Bakunov a concu un algorithme d'intelligence artificielle qui conçoit un maquillage spécial pour contrer les systèmes de reconnaissance facial. Cet outil consiste à placer des lignes de maquillage sur le visage de certaines personnes pour être confondues avec d'autres personnes par les caméras.
+Grigory Bakunov a cependant décidé de ne pas diffuser son algorithme, ni mettre son produit sur le marché après avoir pris conscience qu'ils pourraient être utilisés par des criminels.
+
+Dans le même thème, l'allemand Adam Harvey a également mis en place un dispositif de camouflage qui permet de protéger les gens de la reconnaissance faciale grâce à un maquillage et une coupe de cheveux spécials. Ce dispositif s'appelle CV Dazzle, et consiste à modifier le contraste et les relations spatiales des principales caractéristiques du visage.
+
+#### Impression de visage en infrarouge
+
+
+
+#### Le masque
+
+Bien que la pandémie du covid19 ait insité beaucoup de gens à porter le masque dans la rue, et ait perturbé beaucoup de systèmes de reconnaissances faciale occidentaux à cause des visages à moitié masqués, les systèmes de reconnaissance faciale de la Chine ont gardé un taux de reconnaissance supérieur à 95% puisque leurs systèmes étaient déjà habitués au port du masque dans la rue par la population. 
+
 ### 4) Sources
 https://azure.microsoft.com/fr-fr/overview/artificial-intelligence-ai-vs-machine-learning/
 
 https://hal.inria.fr/tel-01563766/document
 Othman Lachhab. Reconnaissance Statistique de la Parole Continue pour Voix Laryngée et Alaryngée.
 Informatique et langage [cs.CL]. Université Mohammed V de Rabat (Maroc), 2017. Français. fftel01563766f
+
+https://www.thalesgroup.com/fr/europe/france/dis/gouvernement/biometrie/reconnaissance-faciale
+
+https://www.allianttechnology.com/facial-unrecognition-keep-cameras-off-face/
 
 
 You can use the [editor on GitHub](https://github.com/AugustinTT/veille/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
