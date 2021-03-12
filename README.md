@@ -42,6 +42,8 @@ Pour surveiller sa population et récupérer des données sur ses habitants afin
 - Des écoutes téléphoniques : Toute communication téléphonique en Chine peut être enregistrée et analysée. 
 - Des caméras de surveillance : Ce sont plus de 500 millions de caméras de surveillance qui ont été installées en Chine dans les lieux publics. Elles sont dotées d'un système de reconnaissance faciale qui reconnait chaque passant et analyse leurs gestes. Le gouvernement peut donc avoir des données sur les comportements de sa population dans les lieux publics.
 
+A partir de toutes ces données, des algorithmes d'intelligence artificielle calculent les notes du crédit social pour chacun de ses habitants.
+
 #### Reconnaissance vocale et traitement du langage naturel
 Avant que le Deep Learning ne s'invite dans le domaine de la reconnaissance vocale, les systèmes de reconnaissance de la parole utilisaient principalement le modèle gaussien hybride GMM : Celui-ci permet de faire une modélisation probabiliste et efficace de l'espace acoustique d'un locuteur, il est facile à mettre en place et peut traiter un grand nombre de données. Cependant il présente un défaut majeur : Ce modèle dégrade les informations nécessaires à la génération de la parole, ce qui rend la conversion de la voix dégradée.
 
