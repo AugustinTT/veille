@@ -1,4 +1,4 @@
-## Veille technologique : L'Intelligence Artificielle et le crédit social
+## Veille technologique : L'Intelligence Artificielle et le Crédit Social
 
 ### Introduction
 La Chine est un pays en développement qui utilie de plus en plus l'intelligence artificielle pour relever de nombreux défis. Ses investissements dans ce secteur sont importants, et ils pourraient faire de la Chine le leader de l'intelligence artificielle bientôt. Son principal concurrent actuel sont les Etats-Unis.
