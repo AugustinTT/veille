@@ -34,6 +34,14 @@ Les champs d'applications de l'intelligence artificielle sont nombreux dans le m
 
 ### 2) Mises en place de l'IA en Chine
 #### Récupération des données
+Pour surveiller sa population et récupérer des données sur ses habitants afin de mettre en place correctement son système de crédit social, la Chine récupère des données provenant de nombreuses sources d'information:
+- Des entreprises : Celles-ci doivent, à la demande du gouvernement chinois, fournir les données de leurs employés ou de leurs clients. Elles sont alors gardées secrètes par le gouvernement qui ne les divulgent pas publiquement. Pour qu'une entreprise étrangère s'installe en Chine, elle doit accepter de donner ses données d'employés et de clients au gouvernement chinois si celui-ci les demande. Les principales entreprises ciblées par les demandes du gouvernement chinois sont les géants des technologies, ils sont au nombre de trois : Baidu, Alibada et Tencent, aussi appelés BAT.
+- Des écoles : De la même manière que les entreprises, les écoles fournissent des données sur leurs élèves. Les élèves qui travaillent bien peuvent gagner des points sur leur crédit social.
+- Des banques : Elles fournissent des informations précieuses sur la situation financière des gens, en particulier sur leurs régularités.
+- Des réseaux sociaux : Toutes les publications sont analysées et classifiées. Des commentaires flatteurs envers le gouvernement chinois font gagner des points aux internautes, et des critiques envers le gouvernement chinois en font perdre.
+- Des écoutes téléphoniques : Toute communication téléphonique en Chine peut être enregistrée et analysée. 
+- Des caméras de surveillance : Ce sont plus de 500 millions de caméras de surveillance qui ont été installées en Chine dans les lieux publics. Elles sont dotées d'un système de reconnaissance faciale qui reconnait chaque passant et analyse leurs gestes. Le gouvernement peut donc avoir des données sur les comportements de sa population dans les lieux publics.
+
 #### Reconnaissance vocale et traitement du langage naturel
 Avant que le Deep Learning ne s'invite dans le domaine de la reconnaissance vocale, les systèmes de reconnaissance de la parole utilisaient principalement le modèle gaussien hybride GMM : Celui-ci permet de faire une modélisation probabiliste et efficace de l'espace acoustique d'un locuteur, il est facile à mettre en place et peut traiter un grand nombre de données. Cependant il présente un défaut majeur : Ce modèle dégrade les informations nécessaires à la génération de la parole, ce qui rend la conversion de la voix dégradée.
 
