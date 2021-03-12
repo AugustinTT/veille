@@ -91,7 +91,7 @@ Informatique et langage [cs.CL]. Université Mohammed V de Rabat (Maroc), 2017. 
 
 [10] https://www.youtube.com/watch?v=I29V_HYdNH4&ab_channel=Channel2600
 
-[11]https://www.youtube.com/watch?v=mxTvricFIgE&ab_channel=OlgaRussakovsky
+[11] https://www.youtube.com/watch?v=mxTvricFIgE&ab_channel=OlgaRussakovsky
 
 
 You can use the [editor on GitHub](https://github.com/AugustinTT/veille/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
