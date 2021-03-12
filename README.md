@@ -69,29 +69,29 @@ Dans le même thème, l'allemand Adam Harvey a également mis en place un dispos
 Bien que la pandémie du covid19 ait insité beaucoup de gens à porter le masque dans la rue, et ait perturbé beaucoup de systèmes de reconnaissances faciale occidentaux à cause des visages à moitié masqués, les systèmes de reconnaissance faciale de la Chine ont gardé un taux de reconnaissance supérieur à 95% puisque leurs systèmes étaient déjà habitués au port du masque dans la rue par la population. 
 
 ### 4) Sources
-https://azure.microsoft.com/fr-fr/overview/artificial-intelligence-ai-vs-machine-learning/
+[1] https://azure.microsoft.com/fr-fr/overview/artificial-intelligence-ai-vs-machine-learning/
 
-https://hal.inria.fr/tel-01563766/document
+[2] https://hal.inria.fr/tel-01563766/document
 Othman Lachhab. Reconnaissance Statistique de la Parole Continue pour Voix Laryngée et Alaryngée.
 Informatique et langage [cs.CL]. Université Mohammed V de Rabat (Maroc), 2017. Français. fftel01563766f
 
-https://www.thalesgroup.com/fr/europe/france/dis/gouvernement/biometrie/reconnaissance-faciale
+[3] https://www.thalesgroup.com/fr/europe/france/dis/gouvernement/biometrie/reconnaissance-faciale
 
-https://www.allianttechnology.com/facial-unrecognition-keep-cameras-off-face/
+[4] https://www.allianttechnology.com/facial-unrecognition-keep-cameras-off-face/
 
-https://ieeexplore.ieee.org/abstract/document/6722024
+[5] https://ieeexplore.ieee.org/abstract/document/6722024
 
-https://www.rbth.com/science_and_tech/2017/07/22/hiding-from-artificial-intelligence-in-the-age-of-total-surveillance_808692
+[6] https://www.rbth.com/science_and_tech/2017/07/22/hiding-from-artificial-intelligence-in-the-age-of-total-surveillance_808692
 
-https://fintechzoom.com/fintech_news_credit-cards/bad-credit-credit-cards-face-recognition-is-the-u-s-copying-chinas-surveillance-state/
+[7] https://fintechzoom.com/fintech_news_credit-cards/bad-credit-credit-cards-face-recognition-is-the-u-s-copying-chinas-surveillance-state/
 
-https://www.techiexpert.com/the-future-of-artificial-intelligence-depends/
+[8] https://www.techiexpert.com/the-future-of-artificial-intelligence-depends/
 
-https://english.lokmat.com/national/ccp-has-digitised-its-dictatorship/
+[9] https://english.lokmat.com/national/ccp-has-digitised-its-dictatorship/
 
-https://www.youtube.com/watch?v=I29V_HYdNH4&ab_channel=Channel2600
+[10] https://www.youtube.com/watch?v=I29V_HYdNH4&ab_channel=Channel2600
 
-https://www.youtube.com/watch?v=mxTvricFIgE&ab_channel=OlgaRussakovsky
+[11]https://www.youtube.com/watch?v=mxTvricFIgE&ab_channel=OlgaRussakovsky
 
 
 You can use the [editor on GitHub](https://github.com/AugustinTT/veille/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
